@@ -1,0 +1,22 @@
+nav {
+    background-color: black;
+    color: white;
+}
+
+.karyawan {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    margin-left: 80px;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: beige;
+}
+
+form {
+    width: 40%;
+    margin: auto;
+}
